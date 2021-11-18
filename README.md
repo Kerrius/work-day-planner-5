@@ -17,9 +17,9 @@ Javascript
 
 
 ## Respository Link
-
+https://github.com/Kerrius/work-day-planner-5
 
 
 ## Website Link
-
+https://kerrius.github.io/work-day-planner-5/
 
